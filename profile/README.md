@@ -1,4 +1,4 @@
-<a href="https://mactokyo.com"><img src="https://raw.githubusercontent.com/mactokyo/.github/main/assets/mactokyo-banner.svg" alt="MacTokyo — Independent apps and tools, crafted in Tokyo." width="1200"></a>
+<a href="https://mactokyo.com"><img src="https://raw.githubusercontent.com/xtymac/xtymac/main/assets/mactokyo-banner.svg" alt="MacTokyo — Independent apps and tools, crafted in Tokyo." width="1200"></a>
 
 **Independent apps and tools, crafted in Tokyo.**
 
@@ -25,7 +25,7 @@ A native macOS companion for the official ChatGPT website, designed to keep a co
 <details>
 <summary>Take a look — native app settings</summary>
 <br>
-<img src="https://raw.githubusercontent.com/mactokyo/.github/main/assets/companion-settings.png" alt="Classic Companion native General settings: app language, page zoom, conversation restoration, input focus and Escape behavior." width="440">
+<img src="https://raw.githubusercontent.com/xtymac/ClassicCompanion/main/assets/marketing/companion-settings.png" alt="Classic Companion native General settings: app language, page zoom, conversation restoration, input focus and Escape behavior." width="440">
 </details>
 
 <sub>Classic Companion is an independent app, not affiliated with OpenAI. Source code (Apache-2.0), downloads and feedback are available together in the project repository.</sub>
