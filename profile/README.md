@@ -8,7 +8,7 @@ MacTokyo is the home of independent products by [Mac Xiang](https://github.com/x
 
 ## Featured app
 
-### [Classic Companion](https://github.com/mactokyo/ClassicCompanion)
+### [Classic Companion](https://github.com/xtymac/ClassicCompanion)
 
 **ChatGPT, a shortcut away on your Mac.**
 
@@ -18,7 +18,7 @@ A native macOS companion for the official ChatGPT website, designed to keep a co
 - **A familiar experience.** Sign in to ChatGPT and use its official web interface, with persistent sign-in and native settings for page zoom and app preferences.
 - **Four interface languages.** Use the app in English, 日本語, 简体中文, or 繁體中文.
 
-**[Try the beta →](https://github.com/mactokyo/ClassicCompanion/releases)** · [Source · Apache-2.0](https://github.com/mactokyo/ClassicCompanion-App)
+**[Try the beta →](https://github.com/xtymac/ClassicCompanion/releases)**
 
 <sub>Public beta · macOS 15+ · Apple silicon. See the release notes for tested systems and known issues.</sub>
 
@@ -28,7 +28,7 @@ A native macOS companion for the official ChatGPT website, designed to keep a co
 <img src="https://raw.githubusercontent.com/mactokyo/.github/main/assets/companion-settings.png" alt="Classic Companion native General settings: app language, page zoom, conversation restoration, input focus and Escape behavior." width="440">
 </details>
 
-<sub>Classic Companion is an independent app, not affiliated with OpenAI. Downloads and user feedback stay in the distribution repository; source code is open under Apache-2.0.</sub>
+<sub>Classic Companion is an independent app, not affiliated with OpenAI. Source code (Apache-2.0), downloads and feedback are available together in the project repository.</sub>
 
 ## Design & engineering
 
